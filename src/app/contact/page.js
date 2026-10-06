@@ -1,10 +1,15 @@
 const Contact =()=>{
     return (
         <div className="contact">
-            <h1>Contact me</h1>
-            <p>Email: spoorthips@example.com</p>
-            <p>Github: https://github.com/spoorthips</p>
-            <p>LinkedIn: https://linkedin.com/in/spoorthips</p>
+            <h1>CONTACT ME</h1>
+            <br/>
+            <a href="mailto:spoorthipsbittimoole@gmail.com">Email: spoorthipsbittimoole@gmail.com</a>
+            <br/><br/>
+            <a href="https://github.com/spoorthips18" target="_blank" rel="noopener noreferrer">GitHub Profile</a>
+            <br/>
+            <br/>
+            <a href="https://www.linkedin.com/in/spoorthi-p-s-604456384/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
+            <br/>
         </div>
     )
 }

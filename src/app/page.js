@@ -6,7 +6,7 @@ import Projects from "./projects/page";
 export default function Home() {
   return (
       <div className="home">
-    <h1>welcome to the my Portfolio</h1>
+    <h1>WELCOME TO MY PORTFOLIO</h1>
 
     </div>
   )}
